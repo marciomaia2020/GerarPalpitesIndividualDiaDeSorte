@@ -1,1 +1,1 @@
-# GerarPalpitesIndividualDiaDeSorte-
+# GerarPalpitesIndividualDiaDeSorte
